@@ -2,4 +2,4 @@
 echo 111
 echo 222
 echo 333
-cho 4
+sscho 4
