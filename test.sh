@@ -4,7 +4,3 @@ echo 222
 echo 333
 sscho 5
 1
-xsffds
-fsdfds
-fds
-fdsf
